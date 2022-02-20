@@ -1,0 +1,39 @@
+#contenedor{ 
+/*        background-color:#F4ABF2;*/ 
+        background-color:#E5BC7A; 
+        border:2px solid #FF0000; 
+        margin:  0; 
+} 
+#cabecera{ 
+        background: url(banner4.jpg); 
+        /*background-color:#E5BC7A;*/ 
+        /*background-color:#5d9b9b;*/ 
+        height:20%; 
+        color:  white; 
+        margin:  0; 
+} 
+#izquierda{ 
+        height:70%; 
+        background-color:#BDD2EF; 
+        float:left; 
+        width:15%; 
+} 
+#derecha{ 
+        margin: 0; 
+        height:70%; 
+        background-color:#DAF7E2; 
+        float:right; 
+        width:85%; 
+        border: none; 
+} 
+#pie{ 
+        margin: 0; 
+        height:10%; 
+        background-color:#D3D1C1; 
+        clear:both; 
+        width:100%; 
+} 
+#izquierda ul li a:hover { 
+background-color:#E5BC7A; 
+color: yellow; 
+} 
